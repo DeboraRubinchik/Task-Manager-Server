@@ -19,3 +19,9 @@ How to Run the server:
 4. Run the application:
    ```bash
    dotnet run
+
+The client side for this application can be found here:
+https://github.com/DeboraRubinchik/Task-Manager-Client
+
+Or you can preview it in StackBlitz:
+https://stackblitz.com/github/DeboraRubinchik/Task-Manager-Client
